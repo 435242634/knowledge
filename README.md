@@ -4,3 +4,6 @@
 
 ### 二、spring-boot-admin
 　　spring Boot Admin 用于监控基于 Spring Boot 的应用。https://github.com/435242634/spring-boot-admin
+  
+### 三、Piggy Metrics
+　　Piggy Metrics，一个供个人处理财务的解决方案。该项目主要用于属于整个微服务架构的流程的学习。使用到Spring Boot, Spring Cloud and Docker。https://github.com/435242634/PiggyMetrics  使用文档：http://blog.csdn.net/rickiyeat/article/details/60792925?utm_source=tuicool&utm_medium=referral  http://www.jianshu.com/p/e26570d1b297?mType=Group
