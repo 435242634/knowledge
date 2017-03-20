@@ -10,3 +10,9 @@
   
 ### 四、zheng-springboot-demo
 　　SpringBoot敏捷微服务开发示例（服务注册中心、服务提供者、实现客户端负载均衡的消费者、声明式的Web Service客户端消费者、服务网关、分布式配置中心、使用分布式配置的客户端）https://github.com/435242634/zheng-springboot-demo
+  
+### 五、springboot-learning-example
+　　spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。https://github.com/435242634/springboot-learning-example
+  
+### 六、SpringBoot-Learning
+　　本项目内容为Spring Boot教程程序样例。https://github.com/435242634/SpringBoot-Learning
