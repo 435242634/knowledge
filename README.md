@@ -16,3 +16,6 @@
   
 ### 六、SpringBoot-Learning
 　　本项目内容为Spring Boot教程程序样例。https://github.com/435242634/SpringBoot-Learning
+
+### 七、ServerSideApplication-Development-And-System-Architecture
+　　服务端应用程序开发与系统架构。https://github.com/435242634/ServerSideApplication-Development-And-System-Architecture
