@@ -25,3 +25,6 @@
 
 ### 九、free-programming-books
 　　经常更新的免费资源列表，包括书籍，播客，网站，开发工具等等。对于正在学习代码的人来说挺实用。https://github.com/435242634/free-programming-books
+
+### 十、Spring-Boot-Reference-Guide
+　　Spring Boot文档中文翻译版。https://github.com/qibaoguang/Spring-Boot-Reference-Guide
